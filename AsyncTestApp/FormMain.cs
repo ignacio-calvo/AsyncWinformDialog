@@ -53,7 +53,7 @@ namespace AsyncTestApp
                 }
                 finally
                 {
-                    //tbxCancel.Close();
+
                 }
 
             }
